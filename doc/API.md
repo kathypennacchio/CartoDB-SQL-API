@@ -24,6 +24,8 @@ To find your API key:
 - Click on your username in the top right corner, and select "Your API keys."
 - Here, you can copy your API key, see use examples, and reset your API key.
 
+![API]({{ '/img/layout/Cartodb-platform/API.png' | prepend: site.baseurl }})
+
 To use your API key, pass it as a parameter in an URL call to the CartoDB API. For example, to perform an insert into your table, you would use the following URL structure.
 
 <div class="code-title code-request">Query example with the api_key parameter</div>
